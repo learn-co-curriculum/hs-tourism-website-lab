@@ -5,3 +5,5 @@
 1. A short description of why you want to see that attraction
 2. A photo of the attraction
 3. A link to another website for more information about the attraction
+
+<a href='https://learn.co/lessons/hs-tourism-website-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
